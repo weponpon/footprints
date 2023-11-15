@@ -1,4 +1,3 @@
 .DS_Store
 .footprints/*
-docs/_build
 docs/init_files
